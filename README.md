@@ -20,11 +20,14 @@ The image below show the line graph created for Outcomes versus Funding Goals.
 ![alt text](https://github.com/sandramcardona/Kickstarting_with_Excel/blob/master/Resources/Outcomes_vs_Goal.png?raw=true)
 
 ### Challenges and Difficulties Encountered
-The chanllenges encountered when working with the data were the formats for the Launched dates and 
+There was one chanllenge encountered when working with the data that was simple yet important to be able to work with the data properly. The formats for the Launched dates that needed to be changed from unix format to month, day and year format. This was done by using the unix conversion formula. This then allow me to use the converted dates for further analysis using the pivot tables and charts. 
+
+Possible challenges that could be encountered when analyzing the Outcomes based on Goals would be to try to determing the goal ranges needed to spread the outcomes so the data can be analyzed properly without missing important clues. If the goal ranges are too close together then we will miss important failures and success marks at different points of the successful and failed campaings. 
 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+Two conclusions that can be drawn about the Outcomes based on Launch date are that May and June 
 
 - What can you conclude about the Outcomes based on Goals?
 
