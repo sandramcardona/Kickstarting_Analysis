@@ -7,8 +7,9 @@ To analyze and then create visualization for how different campaigns fared in re
 
 ## Analysis and Challenges
 The analysis was performed by 
+![alt text](https://github.com/sandramcardona/Kickstarting_with_Excel/blob/master/Theather_Outcomes_vs_Launch.png?raw=true)
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/sandramcardona/Kickstarting_with_Excel/blob/master/Outcomes_vs_Goal.png?raw=true)
 
 Explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered.
 
