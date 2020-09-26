@@ -1,9 +1,9 @@
 # Kickstarting_with_Excel
 
-## Review of Kickstarter campaign data based on Launch dates and funding goals.
+## Review of Kickstarter campaign data based on Launch dates and funding goals for Theater campaigns.
 
 ### Purpose
-To analyze and visualize how different campaigns fared in relation to their launch dates and their funding goals based on the kickstarter data.
+To analyze and visualize how different campaigns fared in relation to their launch dates and their funding goals for Theater Campaigns worldwide.
 
 ## Analysis and Challenges
 
