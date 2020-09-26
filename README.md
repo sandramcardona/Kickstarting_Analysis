@@ -1,6 +1,6 @@
 # Kickstarting_with_Excel
 
-## Review of Kickstarter campaign data for Louise based on Outcomes Based on Launch dates and goals.
+## Review of Kickstarter campaign data based on Launch dates and funding goals.
 
 ### Purpose
 To analyze and visualize how different campaigns fared in relation to their launch dates and their funding goals based on the kickstarter data.
