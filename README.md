@@ -26,12 +26,7 @@ Possible challenges that could be encountered when analyzing the Outcomes based 
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-Two conclusions that can be drawn about the Outcomes based on Launch date are that May and June 
-
-- What can you conclude about the Outcomes based on Goals?
-
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
+Two conclusions that can be drawn about the Outcomes based on Launch date are the best and worst months to launch a theather campaing. One conclusion is that in the months of May and June Theater campaigns perform the best compared to the other months. The second conclusion is that the months of October and December are the months that have done the worst to launch Theather campaigns.
+Based on the Outcomes Goals it can be concluded that the best Theater funding goals range from $35,000 to less than $45,000. Meanwhile, the worst funding goals are above $45,000.The limitations of the dataset is that some of the campaigns are still live so we can't include them in our total findings leaving us with incomplete information. Another limitation is that the data is old as it stops on 2017 and does not represent current economic changes and trends for recent years.
+Other possible tables and graphs that can be created that can help with further understanding the data will be data based on percentages and including the country or countries where the campaign is looking to be released. I would add on the analysis for Outcomes Based another table to analyze the percent of Successful, fail and canceled campagins and then do a line graph of this percentages.  I would also add country as one of the filters in the different tables and based on the country that the campaign is looking to be released create different tables and charts for each to be able to observed if the country affects the launch dates and the funding goal outcomes. 
 
